@@ -54,6 +54,3 @@ Stock data is fetched using yFinance (e.g., Apple stock - AAPL).
 * Add multiple stock features (Open, High, Volume)
 * Hyperparameter tuning
 
-## Author
-
-Your Name
